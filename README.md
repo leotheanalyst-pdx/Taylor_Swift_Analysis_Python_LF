@@ -29,9 +29,9 @@
 
 ## **Project Folders**
 The analysis was stored in a file containing the following folders. 
-- 01 Sourced Data: Contains the Instacart Project Brief
-- 02 Manipulated Data: Separated into Original and Prepared Data. These contain the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. NOTE: This folder has not been included
-- 03 Analysis:
+- **01 Sourced Data: Contains the Instacart Project Brief**
+- **02 Manipulated Data**
+- **03 Analysis:**
 -   **Reports** Contains initial data report and project overview
 -   **Scripts** Contains all the Python coding involved for the entire analysis process.
 -   **Visualizations**  Contains the visualizations derived from Python analysis and used for developing insights within the final dashboard
