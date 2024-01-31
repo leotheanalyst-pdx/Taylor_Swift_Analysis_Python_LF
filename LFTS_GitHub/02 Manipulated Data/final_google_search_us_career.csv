@@ -1,0 +1,207 @@
+,date,us_search_score,album,album_id
+0,11/1/2006,4,Debut,DEBUT
+1,12/1/2006,4,Debut,DEBUT
+2,1/1/2007,4,Debut,DEBUT
+3,2/1/2007,4,Between Albums,BTWN
+4,3/1/2007,4,Between Albums,BTWN
+5,4/1/2007,5,Between Albums,BTWN
+6,5/1/2007,6,Between Albums,BTWN
+7,6/1/2007,5,Between Albums,BTWN
+8,7/1/2007,5,Between Albums,BTWN
+9,8/1/2007,4,Between Albums,BTWN
+10,9/1/2007,4,Between Albums,BTWN
+11,10/1/2007,5,Between Albums,BTWN
+12,11/1/2007,9,Between Albums,BTWN
+13,12/1/2007,9,Between Albums,BTWN
+14,1/1/2008,8,Between Albums,BTWN
+15,2/1/2008,9,Between Albums,BTWN
+16,3/1/2008,8,Between Albums,BTWN
+17,4/1/2008,9,Between Albums,BTWN
+18,5/1/2008,10,Between Albums,BTWN
+19,6/1/2008,9,Between Albums,BTWN
+20,7/1/2008,7,Between Albums,BTWN
+21,8/1/2008,8,Between Albums,BTWN
+22,9/1/2008,14,Between Albums,BTWN
+23,10/1/2008,15,Fearless,FEAR
+24,11/1/2008,34,Fearless,FEAR
+25,12/1/2008,24,Fearless,FEAR
+26,1/1/2009,22,Fearless,FEAR
+27,2/1/2009,23,Between Albums,BTWN
+28,3/1/2009,20,Between Albums,BTWN
+29,4/1/2009,18,Between Albums,BTWN
+30,5/1/2009,19,Between Albums,BTWN
+31,6/1/2009,22,Between Albums,BTWN
+32,7/1/2009,19,Between Albums,BTWN
+33,8/1/2009,20,Between Albums,BTWN
+34,9/1/2009,62,Between Albums,BTWN
+35,10/1/2009,28,Between Albums,BTWN
+36,11/1/2009,43,Between Albums,BTWN
+37,12/1/2009,32,Between Albums,BTWN
+38,1/1/2010,25,Between Albums,BTWN
+39,2/1/2010,28,Between Albums,BTWN
+40,3/1/2010,18,Between Albums,BTWN
+41,4/1/2010,19,Between Albums,BTWN
+42,5/1/2010,16,Between Albums,BTWN
+43,6/1/2010,13,Between Albums,BTWN
+44,7/1/2010,11,Between Albums,BTWN
+45,8/1/2010,20,Between Albums,BTWN
+46,9/1/2010,22,Speak Now,SPEAK
+47,10/1/2010,37,Speak Now,SPEAK
+48,11/1/2010,40,Speak Now,SPEAK
+49,12/1/2010,31,Speak Now,SPEAK
+50,1/1/2011,28,Between Albums,BTWN
+51,2/1/2011,22,Between Albums,BTWN
+52,3/1/2011,16,Between Albums,BTWN
+53,4/1/2011,17,Between Albums,BTWN
+54,5/1/2011,18,Between Albums,BTWN
+55,6/1/2011,20,Between Albums,BTWN
+56,7/1/2011,16,Between Albums,BTWN
+57,8/1/2011,21,Between Albums,BTWN
+58,9/1/2011,15,Between Albums,BTWN
+59,10/1/2011,19,Between Albums,BTWN
+60,11/1/2011,26,Between Albums,BTWN
+61,12/1/2011,22,Between Albums,BTWN
+62,1/1/2012,17,Between Albums,BTWN
+63,2/1/2012,23,Between Albums,BTWN
+64,3/1/2012,18,Between Albums,BTWN
+65,4/1/2012,19,Between Albums,BTWN
+66,5/1/2012,14,Between Albums,BTWN
+67,6/1/2012,14,Between Albums,BTWN
+68,7/1/2012,13,Between Albums,BTWN
+69,8/1/2012,25,Between Albums,BTWN
+70,9/1/2012,28,Red,RED
+71,10/1/2012,44,Red,RED
+72,11/1/2012,40,Red,RED
+73,12/1/2012,42,Red,RED
+74,1/1/2013,38,Between Albums,BTWN
+75,2/1/2013,31,Between Albums,BTWN
+76,3/1/2013,26,Between Albums,BTWN
+77,4/1/2013,23,Between Albums,BTWN
+78,5/1/2013,23,Between Albums,BTWN
+79,6/1/2013,22,Between Albums,BTWN
+80,7/1/2013,21,Between Albums,BTWN
+81,8/1/2013,25,Between Albums,BTWN
+82,9/1/2013,16,Between Albums,BTWN
+83,10/1/2013,13,Between Albums,BTWN
+84,11/1/2013,18,Between Albums,BTWN
+85,12/1/2013,15,Between Albums,BTWN
+86,1/1/2014,19,Between Albums,BTWN
+87,2/1/2014,14,Between Albums,BTWN
+88,3/1/2014,10,Between Albums,BTWN
+89,4/1/2014,10,Between Albums,BTWN
+90,5/1/2014,10,Between Albums,BTWN
+91,6/1/2014,9,Between Albums,BTWN
+92,7/1/2014,9,Between Albums,BTWN
+93,8/1/2014,27,Between Albums,BTWN
+94,9/1/2014,20,1989,1989
+95,10/1/2014,32,1989,1989
+96,11/1/2014,56,1989,1989
+97,12/1/2014,41,1989,1989
+98,1/1/2015,37,Between Albums,BTWN
+99,2/1/2015,34,Between Albums,BTWN
+100,3/1/2015,25,Between Albums,BTWN
+101,4/1/2015,24,Between Albums,BTWN
+102,5/1/2015,34,Between Albums,BTWN
+103,6/1/2015,31,Between Albums,BTWN
+104,7/1/2015,36,Between Albums,BTWN
+105,8/1/2015,31,Between Albums,BTWN
+106,9/1/2015,30,Between Albums,BTWN
+107,10/1/2015,26,Between Albums,BTWN
+108,11/1/2015,20,Between Albums,BTWN
+109,12/1/2015,20,Between Albums,BTWN
+110,1/1/2016,17,Between Albums,BTWN
+111,2/1/2016,27,Between Albums,BTWN
+112,3/1/2016,16,Between Albums,BTWN
+113,4/1/2016,19,Between Albums,BTWN
+114,5/1/2016,15,Between Albums,BTWN
+115,6/1/2016,26,Between Albums,BTWN
+116,7/1/2016,34,Between Albums,BTWN
+117,8/1/2016,14,Between Albums,BTWN
+118,9/1/2016,13,Between Albums,BTWN
+119,10/1/2016,12,Between Albums,BTWN
+120,11/1/2016,15,Between Albums,BTWN
+121,12/1/2016,12,Between Albums,BTWN
+122,1/1/2017,11,Between Albums,BTWN
+123,2/1/2017,10,Between Albums,BTWN
+124,3/1/2017,8,Between Albums,BTWN
+125,4/1/2017,8,Between Albums,BTWN
+126,5/1/2017,9,Between Albums,BTWN
+127,6/1/2017,9,Between Albums,BTWN
+128,7/1/2017,8,Between Albums,BTWN
+129,8/1/2017,39,Between Albums,BTWN
+130,9/1/2017,20,Between Albums,BTWN
+131,10/1/2017,15,reputation,REP
+132,11/1/2017,28,reputation,REP
+133,12/1/2017,19,reputation,REP
+134,1/1/2018,11,reputation,REP
+135,2/1/2018,8,Between Albums,BTWN
+136,3/1/2018,10,Between Albums,BTWN
+137,4/1/2018,10,Between Albums,BTWN
+138,5/1/2018,15,Between Albums,BTWN
+139,6/1/2018,11,Between Albums,BTWN
+140,7/1/2018,16,Between Albums,BTWN
+141,8/1/2018,12,Between Albums,BTWN
+142,9/1/2018,10,Between Albums,BTWN
+143,10/1/2018,13,Between Albums,BTWN
+144,11/1/2018,7,Between Albums,BTWN
+145,12/1/2018,8,Between Albums,BTWN
+146,1/1/2019,10,Between Albums,BTWN
+147,2/1/2019,7,Between Albums,BTWN
+148,3/1/2019,7,Between Albums,BTWN
+149,4/1/2019,14,Between Albums,BTWN
+150,5/1/2019,12,Between Albums,BTWN
+151,6/1/2019,14,Between Albums,BTWN
+152,7/1/2019,14,Lover,LOVE
+153,8/1/2019,23,Lover,LOVE
+154,9/1/2019,13,Lover,LOVE
+155,10/1/2019,12,Lover,LOVE
+156,11/1/2019,15,Between Albums,BTWN
+157,12/1/2019,12,Between Albums,BTWN
+158,1/1/2020,10,Between Albums,BTWN
+159,2/1/2020,15,Between Albums,BTWN
+160,3/1/2020,9,Between Albums,BTWN
+161,4/1/2020,7,Between Albums,BTWN
+162,5/1/2020,9,Between Albums,BTWN
+163,6/1/2020,6,folklore,FOLK
+164,7/1/2020,18,folklore,FOLK
+165,8/1/2020,12,folklore,FOLK
+166,9/1/2020,9,folklore,FOLK
+167,10/1/2020,7,Between Albums,BTWN
+168,11/1/2020,9,evermore,EVER
+169,12/1/2020,17,evermore,EVER
+170,1/1/2021,9,evermore,EVER
+171,2/1/2021,11,evermore,EVER
+172,3/1/2021,12,evermore,EVER
+173,4/1/2021,12,Fearless (Taylor's Version),FEARTV
+174,5/1/2021,8,Fearless (Taylor's Version),FEARTV
+175,6/1/2021,8,Fearless (Taylor's Version),FEARTV
+176,7/1/2021,8,Fearless (Taylor's Version),FEARTV
+177,8/1/2021,8,Between Albums,BTWN
+178,9/1/2021,8,Between Albums,BTWN
+179,10/1/2021,8,Red (Taylor's Version),REDTV
+180,11/1/2021,36,Red (Taylor's Version),REDTV
+181,12/1/2021,13,Red (Taylor's Version),REDTV
+182,1/1/2022,12,Red (Taylor's Version),REDTV
+183,2/1/2022,11,Between Albums,BTWN
+184,3/1/2022,9,Between Albums,BTWN
+185,4/1/2022,11,Between Albums,BTWN
+186,5/1/2022,14,Between Albums,BTWN
+187,6/1/2022,9,Between Albums,BTWN
+188,7/1/2022,10,Between Albums,BTWN
+189,8/1/2022,13,Between Albums,BTWN
+190,9/1/2022,13,Midnights,MIDN
+191,10/1/2022,30,Midnights,MIDN
+192,11/1/2022,66,Midnights,MIDN
+193,12/1/2022,20,Midnights,MIDN
+194,1/1/2023,18,Between Albums,BTWN
+195,2/1/2023,21,Between Albums,BTWN
+196,3/1/2023,37,Between Albums,BTWN
+197,4/1/2023,51,Between Albums,BTWN
+198,5/1/2023,67,Between Albums,BTWN
+199,6/1/2023,53,Speak Now (Taylor's Version),SPEAKTV
+200,7/1/2023,60,Speak Now (Taylor's Version),SPEAKTV
+201,8/1/2023,63,Speak Now (Taylor's Version),SPEAKTV
+202,9/1/2023,79,Speak Now (Taylor's Version),SPEAKTV
+203,10/1/2023,100,1989 (Taylor's Version),1989TV
+204,11/1/2023,77,1989 (Taylor's Version),1989TV
+205,12/1/2023,74,1989 (Taylor's Version),1989TV

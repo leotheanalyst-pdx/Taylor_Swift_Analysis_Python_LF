@@ -1,0 +1,15 @@
+﻿album_id,album_title,album_announce_mo,album_announce_day,album_announce_yr,album_announce_date,album_release_mo,album_release_day,release_year,album_release_date,chart_date,wk1_equiv_album_units, w1_trad_album_sales ,w1_sea_units,wk1_on_demand_streams,wk1_vinyl_sales, wk1_cd_sales 
+DEBUT,Debut,June,19,2006,2006-06-19,October,24,2006,2006-10-24,, unknown ,39000, unknown , unknown , unknown , unknown 
+FEAR,Fearless,September,15,2008,2008-09-15,November,11,2008,2008-11-11,,592300,592300, unknown , unknown , unknown , unknown 
+SPEAK,Speak Now,August,04,2010,2010-08-04,October,25,2010,2010-10-25,,507000,1047000, unknown , unknown , unknown , unknown 
+REDTV,Red,August,13,2012,2012-08-13,October,22,2012,2012-10-22,,1208000,1208000, unknown , unknown , unknown , unknown 
+1989,1989,August ,19,2014,2014-08-19,November,15,2014,2014-11-15,,1280000,1297000, unknown , unknown , unknown , unknown 
+REP,Reputation,August,24,2017,2017-08-24,November,10,2017,2017-11-10,2017-12-02,1238000,1216000, unknown , unknown , unknown ,507000
+LOVE,Lover,June,13,2019,2019-06-13,August,23,2019,2019-08-23,2019-09-07,867000,679000,175000,226000000, unknown , unknown 
+FOLK,folklore,July,24,2020,2020-07-24,July,24,2020,2020-07-24,2020-08-08,846000,615000,218000,289085000, unknown , unknown 
+EVER,evermore,December,10,2020,2020-12-10,December,11,2020,2020-12-11,2020-12-26,329000,154500,167000,220490000, unknown , unknown 
+FEARTV,Fearless (Taylor's Version),February,11,2021,2021-02-11,April,09,2021,2021-04-09,2021-04-24,291000,179000,109000,142980000,67000,290000
+REDTV,Red (Taylor's Version),June,18,2021,2021-06-18,November,12,2021,2021-11-12,2021-11-18,605000,369000,227000,303230000,114000, unknown 
+MIDN,Midnights,August,28,2022,2022-08-28,October,21,2022,2022-10-21,2022-10-27,1578000,1140000,419000,549260000,575000,398500
+SPEAKTV,Speak Now (Taylor's Version),May,05,2023,2023-05-05,July,07,2023,2023-07-07,2023-07-13,716000,507000,206000,269330000,268500, unknown 
+1989TV,1989 (Taylor's Version),August,09,2023,2023-08-09,October,27,2023,2023-10-27,2023-11-02,1653000,1359000,288000,375490000,693000,554000
