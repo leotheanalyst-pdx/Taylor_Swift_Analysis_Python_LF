@@ -2,9 +2,7 @@
 # **Objective**: 
 - This analysis examines success measures and sound characteristics of Taylor's music, showcasing the analytical process. The exploratory analysis also seeks to launch a larger project about Taylor’s music, targeted at music fans and non-technical audiences.
 
-<img width="610" alt="For Github home page TS analy" src="https://github.com/leotheanalyst-pdx/Taylor-s-Era-CF-Final-Project-/assets/146140903/1061ad79-46a9-4d72-be01-b5eb403257e9">
-
-
+<img width="940" alt="TaylorsEraDashboard" src="https://github.com/leotheanalyst-pdx/Taylor_Swift_Analysis_Python_LF/assets/146140903/09f236a1-f4a8-4e5d-9fc1-7d102828eea7">
 
 ## **Project Deliverables**
 - **Tableau Dashboard** [here](https://public.tableau.com/views/TaylorsEraCFAchievement6/TaylorsEra?:language=en-US&:display_count=n&:origin=viz_share_link) 
@@ -32,9 +30,9 @@ The analysis was stored in a file containing the following folders.
 - **01 Sourced Data: Contains the Instacart Project Brief**
 - **02 Manipulated Data**
 - **03 Analysis:**
--   **Reports** Contains initial data report and project overview
--   **Scripts** Contains all the Python coding involved for the entire analysis process.
--   **Visualizations**  Contains the visualizations derived from Python analysis and used for developing insights within the final dashboard
+    -   **Reports** Contains initial data report and project overview
+    -   **Scripts** Contains all the Python coding involved for the entire analysis process.
+    -   **Visualizations**  Contains the visualizations derived from Python analysis and used for developing insights within the final dashboard
 
 ## **Skills Demonstrated**
 - **Domain Specific Research**
